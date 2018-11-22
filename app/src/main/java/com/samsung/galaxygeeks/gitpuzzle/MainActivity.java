@@ -27,13 +27,13 @@ public class MainActivity extends AppCompatActivity {
         imageView5.setImageResource(R.drawable.roof);
 
         ImageView imageView6 = findViewById(R.id.imageView6);
-        imageView6.setImageResource(R.drawable.balcony);
+        imageView6.setImageResource(R.drawable.blue_gate);
 
         ImageView imageView7 = findViewById(R.id.imageView7);
         imageView7.setImageResource(R.drawable.left_fender);
 
         ImageView imageView8 = findViewById(R.id.imageView8);
-        imageView8.setImageResource(R.drawable.balcony);
+        imageView8.setImageResource(R.drawable.trunk);
 
         ImageView imageView9 = findViewById(R.id.imageView9);
         imageView9.setImageResource(R.drawable.rear_light);
